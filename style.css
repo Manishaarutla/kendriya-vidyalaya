@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@700&display=swap');
+
+
+body{
+    background: rgb(16,190,198);
+background: linear-gradient(90deg, rgba(16,190,198,1) 45%, rgba(0,255,235,1) 100%);
+}
+
+#abc{
+
+    border:rgb(3, 3, 43) 5px solid
+}
+
+#logo{
+   
+    border: 2px solid brown;
+    border-radius: 15%;
+}
+#firstpara{
+color: rgb(73, 19, 19);
+font-size: 20px;
+}
+
+#infra{
+    font-size: 30px;
+}
+
+
+
+
+p{
+    font-size: 18px;
+    text-align: justify;
+
+
+}
+#kv{
+    color: rgb(27, 27, 51);
+    font-family:  'Vollkorn', serif;
+    font-size: 50px;
+}
+address{
+    font-size: 18PX;
+    text-align: justify;
+
+}
+
+#tab{
+    border: 2px rgb(3, 3, 43) solid
+}
+
+#tabs{
+
+    border: solid 3px black;
+
+}
+
+th{
+    color:rgb(3, 3, 43);
+    height: 70px;
+    font-size:20px;
+}
+
+td{
+    height:30px;
+    font-weight: bold;
+}
+
+div{
+    border: 2px solid brown;
+}
+
+#ann{
+    text-decoration: underline;
+}
